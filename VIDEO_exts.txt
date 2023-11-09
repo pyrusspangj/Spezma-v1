@@ -1,0 +1,15 @@
+.avi
+.mp4
+.mov
+.mkv
+.wmv
+.flv
+.mpeg
+.3gp
+.asf
+.m2ts
+.mpg
+.ts
+.m4v
+.vob
+.mts

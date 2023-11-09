@@ -1,0 +1,14 @@
+.mp3
+.wav
+.flac
+.aac
+.ogg
+.wma
+.m4a
+.aiff
+.au
+.ac3
+.ra
+.opus
+.mka
+.spx
